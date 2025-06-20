@@ -1,1 +1,1 @@
-# Memory-Allocation-Visualizer
+# Memory Allocation Visualizer\n\nRun `main.py` to start the simulation.
